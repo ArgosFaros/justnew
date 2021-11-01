@@ -12,5 +12,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
+    // Wtf i just wonna do some shit but its not working
+
 
 </project>
